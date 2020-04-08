@@ -9,4 +9,4 @@
   * `gcc -o piku piku.s`
   * `./piku`
 * Issues that you encountered along the way, and anything you have questions about.
-  * No real issues, after completing the reading I was able to complete this assignemnt with relative ease.
+  * No real issues, after completing the reading I was able to complete this assignment with relative ease.
