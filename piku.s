@@ -30,7 +30,7 @@ line1:
     .asciz "Oh, Raspberry Pi\n"
  
 line2:
-   .asciz "Hopefully we can be friends\n"
+   .asciz "Hopefully you will work well\n"
 
 line3:
-   .asciz "To the very end\n"
+   .asciz "Throughout spring quarter!\n"
